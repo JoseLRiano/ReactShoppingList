@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactShoppingList/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ReactShoppingList/static/js/main.743e19b4.chunk.js",
+    "main.js.map": "/ReactShoppingList/static/js/main.743e19b4.chunk.js.map",
+    "runtime-main.js": "/ReactShoppingList/static/js/runtime-main.4fa6859e.js",
+    "runtime-main.js.map": "/ReactShoppingList/static/js/runtime-main.4fa6859e.js.map",
+    "static/js/2.dee5a43d.chunk.js": "/ReactShoppingList/static/js/2.dee5a43d.chunk.js",
+    "static/js/2.dee5a43d.chunk.js.map": "/ReactShoppingList/static/js/2.dee5a43d.chunk.js.map",
+    "index.html": "/ReactShoppingList/index.html",
+    "precache-manifest.94ed99155af2d1afe8aeab01e6bdf5a2.js": "/ReactShoppingList/precache-manifest.94ed99155af2d1afe8aeab01e6bdf5a2.js",
+    "service-worker.js": "/ReactShoppingList/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ReactShoppingList/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.dee5a43d.chunk.js.LICENSE.txt": "/ReactShoppingList/static/js/2.dee5a43d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fa6859e.js",
+    "static/js/2.dee5a43d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.743e19b4.chunk.js"
+  ]
+}
